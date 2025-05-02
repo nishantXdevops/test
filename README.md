@@ -1,7 +1,7 @@
 ke IP address se link karna. Yeh kaam aap Route 53 ya kisi bhi DNS provider ke through kar sakte ho.
 Agar aapka domain AWS Route 53 mein hai:
 
-    Login to AWS Console.
+    Login to AWS jhjhjnknknm,e.
 
     Open Route 53 service.
 
