@@ -43,9 +43,4 @@ EC2 ke liye caution:
 
     Agar aap Elastic IP use nahi karte ho to EC2 ka public IP restart ke baad change ho jata hai.
 
-    Isliye Elastic IP allocate karke apne instance ke saath associate kar lena better hota hai.
-
-Aap domain kis provider se le rakhe ho? Batao to main uska specific example de sakta hoon.
-Is this conversation helpful so far?
-
-
+    
