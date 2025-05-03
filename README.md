@@ -5,7 +5,7 @@ Agar aapka domain AWS Route 53 mein hai:
 
     Open Route 53 service.
 
-    Hosted zones mein jaake apne domain ko select karo.
+    name nishant hai
 
     Create Record par click karo.
 
