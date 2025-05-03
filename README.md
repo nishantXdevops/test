@@ -44,3 +44,6 @@ EC2 ke liye caution:
     Agar aap Elastic IP use nahi karte ho to EC2 ka public IP restart ke baad change ho jata hai.
 
     
+dvchb cmdsc nc  c cdscc 
+cnsdnvdvvnvm,czv v n,xzc
+ncnc cmc cm 
