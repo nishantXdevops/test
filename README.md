@@ -1,5 +1,5 @@
-ke IP address se link karna. Yeh kaam aap Route 53 ya kisi bhi DNS provider ke through kar sakte ho.
-Agar aapka domain AWS Route 53 mein hai:
+ke IP a1111111111111111111111111111111111111111111111111111111111
+111111111111111111111111111111111111111111111111111111111
 
     Login to AWS jhjhjnknknm,e.
 
